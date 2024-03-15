@@ -21,6 +21,8 @@
 
 ### Гайды для новичков и не только
 ![image](https://github.com/DevDrift/rf4-bot/assets/19922232/0506d694-9d94-498c-8d0e-fe8e2bd4b756)
+![image](https://github.com/DevDrift/rf4-bot/assets/19922232/e4f629a5-2c58-4bbd-ba36-9fd79e3922c3)
+
 
 ## Основные команды
 Список всех водоемов в игре
@@ -30,4 +32,8 @@
 Гайд для прокачки 100% опыта в приготовления прикормочной смеси
 ```
 !rf4-guid-preparation-of-bait
+```
+Стартовая фидер-сборка
+```
+!rf4-guid-initial-feeder
 ```
