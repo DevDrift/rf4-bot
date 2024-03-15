@@ -26,6 +26,9 @@
 ![image](https://github.com/DevDrift/rf4-bot/assets/19922232/0506d694-9d94-498c-8d0e-fe8e2bd4b756)
 ![image](https://github.com/DevDrift/rf4-bot/assets/19922232/e4f629a5-2c58-4bbd-ba36-9fd79e3922c3)
 
+### Список рыб. Вес трофея и редкий вес
+![image](https://github.com/DevDrift/rf4-bot/assets/19922232/d0589ea7-1a04-4b60-b302-5cc494b5ed64)
+
 
 ## Основные команды
 Список всех водоемов в игре
@@ -43,4 +46,8 @@
 Стартовая спининг-сборка для водоема р. Белая
 ```
 !rf4-guid-initial-spinning
+```
+Список всех рыб (трофей, редкий трофей)
+```
+!rf4-trophy-list
 ```
