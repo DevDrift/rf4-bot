@@ -3,6 +3,8 @@
 
 👉 [Add bot](https://discord.com/oauth2/authorize?client_id=1215925050130174022&permissions=8&scope=bot)
 
+[Top gg](https://top.gg/bot/1215925050130174022)
+
 ## Основные возможности бота
 ### Он может показать ифнормацию о водоеме (карта,предпросмотр)
 ![image](https://github.com/DevDrift/rf4-bot/assets/19922232/6c1e4b24-6cf5-4e79-91b5-a9badc1ebc67)
