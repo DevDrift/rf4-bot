@@ -19,8 +19,15 @@
 ### Рассказать о каждой из них, при нажатии на кнопку
 ![image](https://github.com/DevDrift/rf4-bot/assets/19922232/4a332dfa-13fe-435a-a0c0-17ca4c446a59)
 
+### Гайды для новичков и не только
+![image](https://github.com/DevDrift/rf4-bot/assets/19922232/0506d694-9d94-498c-8d0e-fe8e2bd4b756)
+
 ## Основные команды
 Список всех водоемов в игре
 ```
 !rf4-bodies-of-water
+```
+Гайд для прокачки 100% опыта в приготовления прикормочной смеси
+```
+!rf4-guid-preparation-of-bait
 ```
