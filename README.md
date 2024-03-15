@@ -37,3 +37,7 @@
 ```
 !rf4-guid-initial-feeder
 ```
+Стартовая спининг-сборка для водоема р. Белая
+```
+!rf4-guid-initial-spinning
+```
