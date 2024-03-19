@@ -6,6 +6,8 @@
 
 👉 [Add bot](https://discord.com/oauth2/authorize?client_id=1215925050130174022&permissions=8&scope=bot)
 
+📖 [Wiki](https://github.com/DevDrift/rf4-bot/wiki)
+
 [![image](https://top.gg/api/widget/upvotes/1215925050130174022.svg)](https://top.gg/bot/1215925050130174022)
 
 ## Основные возможности бота
