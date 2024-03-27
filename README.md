@@ -3,6 +3,7 @@
 
 👉 [Add bot](https://discord.com/oauth2/authorize?client_id=1215925050130174022&permissions=8&scope=bot)
 📖 [Wiki](https://github.com/DevDrift/rf4-bot/wiki)
+🍩 [Donat](https://www.donationalerts.com/r/deemak)
 
 🎁 [![expecting gifts](https://img.shields.io/github/issues-search/DevDrift/rf4-bot?query=%20is%3Aopen%20label%3Agift&style=plastic&label=expecting%20gifts)](https://github.com/DevDrift/rf4-bot/issues?q=is%3Aopen+is%3Aissue)
 [![gifts given out](https://img.shields.io/github/issues-search/DevDrift/rf4-bot?query=%20is%3Aclosed%20label%3Agift&style=plastic&label=gifts%20given%20out&color=FFFF00)](https://github.com/DevDrift/rf4-bot/issues?q=is%3Aissue+is%3Aclosed+label%3Agift)
