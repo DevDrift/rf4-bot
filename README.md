@@ -7,7 +7,7 @@
 
 🎁 [![expecting gifts](https://img.shields.io/github/issues-search/DevDrift/rf4-bot?query=%20is%3Aopen%20label%3Agift&style=plastic&label=expecting%20gifts)](https://github.com/DevDrift/rf4-bot/issues?q=is%3Aopen+is%3Aissue)
 [![gifts given out](https://img.shields.io/github/issues-search/DevDrift/rf4-bot?query=%20is%3Aclosed%20label%3Agift&style=plastic&label=gifts%20given%20out&color=FFFF00)](https://github.com/DevDrift/rf4-bot/issues?q=is%3Aissue+is%3Aclosed+label%3Agift)
-[![image](https://img.shields.io/badge/List_of_gifts-_8-blue)](https://github.com/DevDrift/rf4-bot/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D0%BF%D0%BE%D0%B4%D0%B0%D1%80%D0%BA%D0%BE%D0%B2-%7C-List-of-gifts)
+[![image](https://img.shields.io/badge/List_of_gifts-_9-blue)](https://github.com/DevDrift/rf4-bot/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D0%BF%D0%BE%D0%B4%D0%B0%D1%80%D0%BA%D0%BE%D0%B2-%7C-List-of-gifts)
 
 👍 [![image](https://top.gg/api/widget/upvotes/1215925050130174022.svg)](https://top.gg/bot/1215925050130174022)
 
