@@ -24,7 +24,7 @@
 @RF4 расскажи мне про уклейку
 @RF4 How to catch bleak
 ```
-![image](https://github.com/DevDrift/rf4-bot/assets/19922232/dd06c82b-2526-4a67-b9dc-dfb6926a3ae2)
+[![RF4 discord bot](https://img.youtube.com/vi/q4uDugkqE2g/0.jpg)](https://www.youtube.com/watch?v=q4uDugkqE2g)
 
 ### Он может показать информацию о водоеме (карта,предпросмотр)
 ![image](https://github.com/DevDrift/rf4-bot/assets/19922232/6c1e4b24-6cf5-4e79-91b5-a9badc1ebc67)
