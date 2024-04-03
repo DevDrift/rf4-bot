@@ -27,7 +27,7 @@
 [![RF4 discord bot](https://img.youtube.com/vi/q4uDugkqE2g/maxresdefault.jpg)](https://www.youtube.com/watch?v=q4uDugkqE2g)
 
 ### Он может показать информацию о водоеме (карта,предпросмотр)
-![image](https://github.com/DevDrift/rf4-bot/assets/19922232/6c1e4b24-6cf5-4e79-91b5-a9badc1ebc67)
+[![RF4 discord bot](https://img.youtube.com/vi/2Ae2DLFkyLQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=2Ae2DLFkyLQ)
 
 ### Показать актуальную точку для ловли, выбранного водоема (информация обновляется каждый час)
 Для этого нужно выполнить команду, внутри поля, на выбранном водоеме.
