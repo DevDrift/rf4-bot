@@ -17,6 +17,13 @@
 ```
 ![image](https://github.com/DevDrift/rf4-bot/assets/19922232/a62f3524-d63d-4c6f-ae0c-b54a8be2cbf8)
 
+
+## Получить подарок
+```
+/gift
+```
+[![RF4 discord bot](https://img.youtube.com/vi/v69Bqn7fzmw/maxresdefault.jpg)](https://www.youtube.com/watch?v=v69Bqn7fzmw)
+
 ## Возможности бота
 ### Он может рассказать о нужной вам рыбе, достаточно просто спросить (доступно на Русском [RU] и Английском [EN])
 Для этого нужно упомянуть бота в сообщении и задать ему вопрос
