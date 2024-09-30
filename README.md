@@ -17,7 +17,7 @@
 ```
 /help
 ```
-![image](https://github.com/DevDrift/rf4-bot/assets/19922232/a62f3524-d63d-4c6f-ae0c-b54a8be2cbf8)
+[![image](https://github.com/DevDrift/rf4-bot/assets/19922232/a62f3524-d63d-4c6f-ae0c-b54a8be2cbf8)](https://discord.com/application-directory/1215925050130174022)
 
 
 ## Получить подарок
