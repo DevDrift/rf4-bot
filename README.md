@@ -1,7 +1,8 @@
 # RF4
 Вы хотите удивить участников вашего дискорд сервера, но не знаете как. Этот бот именно для вас. Локации Карты Рыба И многое другое станет доступно с интерактивным ботом.
 
-👉 [Add bot](https://discord.com/oauth2/authorize?client_id=1215925050130174022)
+👉 [Telegram](https://t.me/RF4DevDriftBot)
+👉 [Discord](https://discord.com/oauth2/authorize?client_id=1215925050130174022)
 📖 [Wiki](https://github.com/DevDrift/rf4-bot/wiki)
 🍩 [Donat](https://www.donationalerts.com/r/deemak)
 
