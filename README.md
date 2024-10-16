@@ -14,7 +14,15 @@
 
 👍 [![image](https://top.gg/api/widget/upvotes/1215925050130174022.svg)](https://top.gg/bot/1215925050130174022)
 
-## Основная команда
+## [Telegram](https://t.me/RF4DevDriftBot)
+```
+Можно написать любое слово :)
+```
+
+![image](https://github.com/user-attachments/assets/726e0b47-f364-4c2a-951b-92b82f4e733c)
+
+
+## [Discord](https://discord.com/oauth2/authorize?client_id=1215925050130174022)
 ```
 /help
 ```
